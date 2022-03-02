@@ -1,0 +1,18 @@
+Resumo:
+Conheci o site Github, rem ambiente linux
+crie uma conta
+
+a utilização git clone : aonde o repositorio do servidor Github é atualizador da sua 
+maquina ou computador , para seu endereço no github
+
+git add . 
+git commit : adiciona comenterios ,para repositorio local e não para o remoto.
+
+git push   : atualiza   master para o github
+
+git pull origin master:mostra zona de conflito
+
+mkdir : cria pasta
+
+Entre outros, gostei do ensinamento.
+
